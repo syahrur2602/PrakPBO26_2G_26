@@ -7,7 +7,7 @@
 - *Nama* : Syahrur Ramadhan
 - *Nim*  : 254107020008
 - *Kelas* : TI-2G
-- *Repository : 
+- *Repository : https://github.com/syahrur2602/PrakPBO26_2G_26/tree/main/Pertemuan-2
 
 ## 3. Langkah
 
